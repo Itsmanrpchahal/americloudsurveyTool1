@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.frameapp-merged_res-32:/xml_network_security_config.xml.flat",
+        "source": "com.frameapp-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/xml_network_security_config.xml.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-merged_res-32:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/daemon/7.5.1/com.frameapp-main-34:/drawable/rn_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.frameapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-feature
+11-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.camera"
+12-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:6:9-47
+13        android:required="true" />
+13-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:6:5-7:45
+15-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:6:22-76
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:9:5-77
+16-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:9:22-75
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:5:5-64
+17-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:5:22-62
+18    <uses-permission
+18-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:8:5-81
+19        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+19-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:8:22-78
+20        android:maxSdkVersion="32" />
+20-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:12:9-35
+21    <uses-permission
+21-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:13:5-14:38
+22        android:name="android.permission.READ_EXTERNAL_STORAGE"
+22-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:13:22-77
+23        android:maxSdkVersion="32" />
+23-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:14:9-35
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:4:5-67
+24-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:4:22-64
+25    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+25-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:9:5-76
+25-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:9:22-73
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[com.facebook.flipper:flipper:0.125.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+26-->[com.facebook.flipper:flipper:0.125.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[:react-native-community_netinfo] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+27-->[:react-native-community_netinfo] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+28
+29    <queries>
+29-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+30        <intent>
+30-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+31            <action android:name="android.media.action.IMAGE_CAPTURE" />
+31-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+31-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+32        </intent>
+33    </queries>
+34
+35    <application
+35-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:11:5-35:19
+36        android:name="com.frameapp.MainApplication"
+36-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:12:7-38
+37        android:allowBackup="false"
+37-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:17:7-34
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.7.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:14:7-41
+41        android:label="@string/app_name"
+41-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:13:7-39
+42        android:requestLegacyExternalStorage="true"
+42-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:18:9-52
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:16:7-52
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme"
+45-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:19:7-38
+46        android:usesCleartextTraffic="true" >
+46-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:15:7-42
+47        <activity
+47-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:21:9-111
+48            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+48-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:21:19-83
+49            android:exported="false" />
+49-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/debug/AndroidManifest.xml:21:84-108
+50        <activity
+50-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:21:7-34:18
+51            android:name="com.frameapp.MainActivity"
+51-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:22:9-37
+52            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+52-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:24:9-118
+53            android:exported="true"
+53-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:29:9-32
+54            android:label="@string/app_name"
+54-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:23:9-41
+55            android:launchMode="singleTask"
+55-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:25:9-40
+56            android:screenOrientation="landscape"
+56-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:26:11-48
+57            android:windowSoftInputMode="adjustResize" >
+57-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:27:9-51
+58            <intent-filter>
+58-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:30:9-33:25
+59                <action android:name="android.intent.action.MAIN" />
+59-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:31:13-65
+59-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:31:21-62
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:32:13-73
+61-->/Users/itsmanprchahal/Documents/Projects/frameApp/android/app/src/main/AndroidManifest.xml:32:23-70
+62            </intent-filter>
+63        </activity>
+64
+65        <provider
+65-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+66            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+66-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-94
+67            android:authorities="com.frameapp.provider"
+67-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+68            android:exported="false"
+68-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+69            android:grantUriPermissions="true" >
+69-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+70            <meta-data
+70-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+71                android:name="android.support.FILE_PROVIDER_PATHS"
+71-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+72                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+72-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+73        </provider>
+74
+75        <activity
+75-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+76            android:name="com.yalantis.ucrop.UCropActivity"
+76-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+77            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+77-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+78
+79        <provider
+79-->[:react-native-image-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+80            android:name="com.imagepicker.ImagePickerProvider"
+80-->[:react-native-image-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+81            android:authorities="com.frameapp.imagepickerprovider"
+81-->[:react-native-image-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+82            android:exported="false"
+82-->[:react-native-image-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+83            android:grantUriPermissions="true" >
+83-->[:react-native-image-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+84            <meta-data
+84-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+85                android:name="android.support.FILE_PROVIDER_PATHS"
+85-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+86                android:resource="@xml/imagepicker_provider_paths" />
+86-->[:react-native-image-crop-picker] /Users/itsmanprchahal/Documents/Projects/frameApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+87        </provider>
+88        <provider
+88-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+89            android:name="androidx.startup.InitializationProvider"
+89-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+90            android:authorities="com.frameapp.androidx-startup"
+90-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+91            android:exported="false" >
+91-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+92            <meta-data
+92-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+93                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+93-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+94                android:value="androidx.startup" />
+94-->[androidx.emoji2:emoji2:1.0.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+95            <meta-data
+95-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+96                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+97                android:value="androidx.startup" />
+97-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/itsmanprchahal/Documents/Projects/americloud-donations-android-kiosk/gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+98        </provider>
+99    </application>
+100
+101</manifest>

@@ -1,0 +1,51 @@
+{
+  "name": "react-native-skia",
+  "version": "0.1.192",
+  "summary": "High-performance React Native Graphics using Skia",
+  "description": "@shopify/react-native-skia",
+  "homepage": "https://github.com/shopify/react-native-skia",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/shopify/react-native-skia/react-native-skia.git",
+    "tag": "0.1.192"
+  },
+  "requires_arc": true,
+  "pod_target_xcconfig": {
+    "GCC_PREPROCESSOR_DEFINITIONS": "$(inherited) SK_GL=1 SK_METAL=1",
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++17",
+    "DEFINES_MODULE": "YES",
+    "HEADER_SEARCH_PATHS": "\"$(PODS_TARGET_SRCROOT)/cpp/\"/**"
+  },
+  "frameworks": [
+    "GLKit",
+    "MetalKit"
+  ],
+  "ios": {
+    "vendored_frameworks": [
+      "libs/ios/libskia.xcframework",
+      "libs/ios/libsvg.xcframework",
+      "libs/ios/libskshaper.xcframework"
+    ]
+  },
+  "source_files": [
+    "ios/**/*.{h,c,cc,cpp,m,mm,swift}",
+    "cpp/**/*.{h,cpp}"
+  ],
+  "dependencies": {
+    "React": [
+
+    ],
+    "React-callinvoker": [
+
+    ],
+    "React-Core": [
+
+    ]
+  }
+}

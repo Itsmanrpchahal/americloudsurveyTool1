@@ -1,0 +1,6 @@
+module Pods_frameApp_frameAppTests {
+  umbrella header "Pods-frameApp-frameAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

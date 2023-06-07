@@ -1,0 +1,6 @@
+module Pods_frameApp {
+  umbrella header "Pods-frameApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

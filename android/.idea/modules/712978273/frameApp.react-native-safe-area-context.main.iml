@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-safe-area-context:main" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/78f9df3fdf4e3f4f5b7561b83dd6866b/transformed/jetified-react-android-0.71.8-debug-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/5ebdb601eb6cc73fc9274e6e2f512543/transformed/appcompat-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/c520b25e051f0d66dc6208ddc04d53b0/transformed/jetified-appcompat-resources-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/f48997cad53dcda042ec27165451bb59/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/98ddea99db965b0486646a678a0b5fe0/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/43187df289d891198cd0243ab873818b/transformed/fragment-1.3.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/0b546dfc68f8f9409b786d83264d5a9a/transformed/swiperefreshlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/72345620b9761ecc747a404933c55234/transformed/jetified-activity-1.2.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/add9043b85da883aa681a29c7c34ac1a/transformed/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/f7389ee8bf98e07dea1b0f106c4b55b2/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/4012ece55a3c66bcffd6e4ef9903d4fa/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/91b0299b231278d2ee2e5404c5abefda/transformed/customview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/edd2516a0b1209b0060c56a9886a4ebc/transformed/core-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/12a7bef84d4a133c682a7c94f67e8094/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/58fe776819a67626627f1f85c622f407/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/bfede419b8ed6b3ea8e8fbf80a54de3b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/7e54b8f4ad57142706d37611e3a7ca06/transformed/jetified-savedstate-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/8c9d33d065b89597a3e351314110aa9c/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/e5a405f081e3ce13859736c6431bc5c9/transformed/lifecycle-runtime-2.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/b00aa3862fd123ff40ad104113d1a1e4/transformed/lifecycle-viewmodel-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/919be92a49674a142088c75072317b5d/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/d8f652889915ec50f09db04ab40ef292/transformed/lifecycle-livedata-core-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/2a9d67d638c814ad3f0f6fda00312b78/transformed/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/dc24fe0380f0484c5dc0911c4d695b40/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/1900698a9f422343e14cff8f339bf5cb/transformed/jetified-tracing-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/02adf42d33b92eeeec3924328b892700/transformed/jetified-autofill-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/019c37daf44f0951d477ad7985406d8a/transformed/jetified-fbjni-0.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/dbe213b67cfdf54fc0d68349306ba9e1/transformed/jetified-soloader-0.10.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/26b51dedc14f602b9c2464c2e01627a8/transformed/jetified-nativeloader-0.10.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/6279c96e81392a69ad8d8aee28732848/transformed/jetified-fresco-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/67a7dbbd78f11f39e435844ef49bb145/transformed/jetified-fbcore-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/ffc10763443ae5b9ce83964bd14ec123/transformed/jetified-annotation-0.10.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/9854dbc7a6c49afdd68876de86dfc231/transformed/jetified-ui-common-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/923fd2b3baf7f36e70282ec641879955/transformed/jetified-drawee-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/f6ad3c5821b8790327cadd3fbe2d0b58/transformed/jetified-imagepipeline-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/0a3c5d8f46c09e5b0d7c466248aa031c/transformed/jetified-imagepipeline-base-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/0e55facf7f6258237a5a6275e2a8c0f6/transformed/jetified-infer-annotation-0.18.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/6bb7076f04d1b847cf02ef0cd8f2692c/transformed/jetified-jsr305-3.0.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/55c59536f3239720f9cb14e3317f66a4/transformed/jetified-kotlin-annotations-jvm-1.3.72.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/3e24c3e7648d9d2941860e91c1f727a7/transformed/jetified-imagepipeline-native-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/095092f25b3d59c64ec09175a6f66835/transformed/jetified-memory-type-ashmem-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/5ae1c450f741b15551b9e38a91eae421/transformed/jetified-memory-type-native-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/de09ad25c8abc41a289e4bce727f4297/transformed/jetified-memory-type-java-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/862b8fdb03adee6ecc78d8689bc2bf64/transformed/jetified-nativeimagefilters-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/85e7639e7fcad37ea4b795619aa1d367/transformed/jetified-nativeimagetranscoder-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/b7b4194ecdfd46f63def954642dddf19/transformed/jetified-imagepipeline-okhttp3-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/bc63102b63a64950246ae37753c13213/transformed/jetified-okhttp-urlconnection-4.9.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/2bb72c6f14dbb53983c39baac9850222/transformed/jetified-okhttp-4.9.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/f03ba372c5d8a39cd49740a26b28987b/transformed/jetified-okio-jvm-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/db5e7ae913d0cbe20a9273c67c6b20ab/transformed/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/63515fe0fb757ec0bcacf7509e42a26c/transformed/jetified-kotlin-stdlib-jdk7-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/d5a6917b203944521bbc95075c6d411d/transformed/jetified-kotlin-stdlib-1.6.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/1cbe0019c8a7089c7793d7136bb0df11/transformed/jetified-kotlin-stdlib-common-1.6.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/5894929ec65ac7d1702f6d45a2f030b8/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/d451b15a749aba9fc5a81b4f6b0f3795/transformed/jetified-proguard-annotations-1.19.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../americloud-donations-android-kiosk/gradle/caches/transforms-3/146efec80aa74917b20ec38ce0915ed0/transformed/jetified-javax.inject-1.jar</arg>
+                <arg>$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar</arg>
+                <arg>$USER_HOME$/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="react-native-safe-area-context_debug" />
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.6" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths" />
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/debug" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/paper">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-safe-area-context/android/src/paper/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:4.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.18.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-annotations-jvm:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:annotation:0.10.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:nativeloader:0.10.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.yoga:proguard-annotations:1.19.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:4.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.react:react-android:0.71.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.4.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.7.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.4.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.2.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.autofill:autofill:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fbjni:fbjni:0.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fresco:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fbcore:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:drawee:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-base:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-native:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:memory-type-ashmem:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:memory-type-native:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:memory-type-java:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagefilters:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:ui-common:2.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:soloader:0.10.4@aar" level="project" />
+  </component>
+</module>
